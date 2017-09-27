@@ -8,14 +8,14 @@ This is a very simple PHP encryption library. You can use this library to encryp
 
 ### Getting Started
 
-> \$encryption = new Encryption( );
+> \$encryption = new Encryption( **string** \$key );
 
 ```php
 // Include core encryption library
 require_once 'class.Encryption.php';
 
 // Initialize encryption object
-$encryption = new Encryption();
+$encryption = new Encryption('bZKn8iklVOQr7eC8ONvnCeRFBJwWo1PG');
 ```
 
 

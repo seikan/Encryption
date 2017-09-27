@@ -1,6 +1,6 @@
 # Encryption
 
-This is a very simple PHP encryption library. You can use this library to encrypt or decrypt string with a 16, 24, 36 characters private key.
+This is a very simple PHP encryption library. You can use this library to encrypt or decrypt string with a 16, 24, 32 characters private key.
 
 
 

@@ -1,7 +1,7 @@
 <?php
 
 /**
- * Session: A very simple PHP encryption library.
+ * Encryption: A very simple PHP encryption library.
  *
  * Copyright (c) 2017 Sei Kan
  *
